@@ -1,0 +1,243 @@
+/* Hedar styel */
+header{
+    background-image: url('./resources/Banner\ Image.png') ;
+    background-repeat: no-repeat;
+    padding: 100px;
+
+
+
+}
+.hedar-tital{
+    color: white;
+    font-size: 50px;
+    bottom: ;
+}
+.hedar-contain{
+    color: white;
+    font-size:100px ;
+    width:90% ;
+
+}
+.tm{
+    text-align: center;
+}
+.ts{
+    margin-bottom: ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.th{
+
+}
+/* main styel */
+
+
+.mt{
+    text-align: center;
+}
+.mp{
+    font-size: 100px;
+    color: red;
+}
+.mm{
+    font-size: 20px;
+    color: red;
+}
+.fm{
+    font-size: 50px;
+
+}
+.maintaxe{
+    text-align: center;
+}
+.ssend{
+    margin-top: 200px;
+    background-image:url('./resources/Vectorrr.png');
+    
+    background-repeat: no-repeat ;
+    padding:20px 10px;
+
+    
+
+}
+.madt{
+    font-size: 100px;
+    color: white;
+    width: 60%;
+}
+.madd{
+    color: white;
+    width: 30%;
+}
+.madb{
+    font-size:50px ;
+    color: white;
+}
+.mad{
+    padding-left:100px;
+}
+.er{
+    position:relative;
+    top: -500px;
+    left: 900px;
+    width: 200;
+
+}
+.maheltitel{
+    font-size: 40px;
+}
+.t{
+    color: red;
+
+}
+.madel{
+    text-align: center;
+    margin-top: -400px;
+}
+.bu{
+    padding: 20px 50px;
+    font-size: 30px;
+    color: white;
+    background-color: red;
+}
+.mtital{
+    color: red;
+}
+.mcon{
+    font-size: 50px;
+
+}
+.mpara{
+    width: 30%;
+}
+.eer{
+    font-size:50px ;
+    color: red;
+}
+.ep{
+    width: 50%;
+}
+.mim{
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.imgmim{
+    position: relative;
+    right: 210px;
+    top: 20px;
+}
+
+
+
+.babat{
+    font-size:20px;
+}
+.bacom{
+    font-size: 60px;
+}
+.faf{
+    width: 50%;
+    margin-left: 350px;
+    margin-top:-50px ;
+}
+.baba{
+
+    text-align: center;
+}
+.mia{
+    position: relative;
+    right: -900px;
+    top: -100px;
+    
+    
+}
+.pri{
+    position: relative;
+    top: -500px;
+    width: 50%
+    left: -200px;
+    z-index: 1;
+    
+
+}
+.mimnimg{
+    position: relative;
+    top:100px ;
+}
+.red{
+    position: relative;
+    top: -800px;
+}
+.par{
+    position: relative;
+    top: -1400px;
+    right: -750px;
+}
+.lt{
+    font-size: 20px;
+    color: red;
+}
+.lc{
+    font-size: 50px;
+}
+.lp{
+    font-size:20px;
+    width: 50%;
+    
+}
+.lasa{
+    margin-top:-900px ;
+}
+.lastimg{
+    display: grid;
+    grid-template-columns: 430px 430px 430px;
+    
+}
+
+.sas{
+    text-align: center;
+    background-color:mistyrose;
+    padding: 100px;
+    margin: 30px 30px 30px 30px ;
+}
+.sal{
+    font-size: 50px;
+}
+.sap{
+    padding:0  20% 0;
+a
+}
+.eml{
+    padding: 10px 70px 10px 10px;
+    border-radius: 20px;
+    
+}
+.bot{
+    padding: 10px 50px;
+    border-radius: 20px ;
+    background-color: red;
+    color: white;
+}
+.fooycom{
+    display: flex;
+    justify-content: space-between;
+}
+footer{
+    background-color: black;
+    padding: 100px;
+}
+.ff{
+    font-size: 20px;
+    color: white;
+}
+.icon{
+    display: flex;
+    align-items: center;
+    position: relative;
+    right: -450px;
+}
+
+
